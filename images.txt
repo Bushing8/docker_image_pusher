@@ -1,1 +1,7 @@
-redis:5.0.9-alpine
+registry.cn-shenzhen.aliyuncs.com/hcode/hoj_database_checker
+willfarrell/autoheal
+registry.cn-shenzhen.aliyuncs.com/hcode/hoj_judgeserver
+registry.cn-shenzhen.aliyuncs.com/hcode/hoj_frontend
+registry.cn-shenzhen.aliyuncs.com/hcode/hoj_backend
+nacos/nacos-server:1.4.2
+registry.cn-shenzhen.aliyuncs.com/hcode/hoj_database
