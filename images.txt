@@ -1,1 +1,1 @@
-hoj-redis
+redis:5.0.9-alpine
